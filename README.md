@@ -1,4 +1,4 @@
-# Trends in Future AIs
+# 🚀Trends in Future AIs
 1. Risk-sensitive and confidential scenarios that requires fast response: Expert Systems
 2. Knowledge graphs should be executable expert systems
 3. Train expert systems using DL, RL, optimization, etc.
