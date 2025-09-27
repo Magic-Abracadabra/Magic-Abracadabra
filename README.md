@@ -4,7 +4,7 @@
 3. Train expert systems using DL, RL, optimization, etc.
 4. The boundaries of Agents and MLLMs will be broken.
 
-# ✨About Me
+# ✨About Us
 Welcome to my homepage! I will be glad if you share the same mission and dream with us, so I'm here seeking collaboration opportunities, to address the following issues in Foundation Models/Agents together:
 
 1. Lacking interpretability
