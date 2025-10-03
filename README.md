@@ -5,7 +5,7 @@
 4. The boundaries of Agents and MLLMs will be broken.
 
 # ✨About Us
-Welcome to my homepage! I will be glad if you share the same mission and dream with us, so I'm here seeking collaboration opportunities, to address the following issues in Foundation Models/Agents together:
+Welcome to our homepage! I will be glad if you share the same mission and dream with us, so I'm here seeking collaboration opportunities, to address the following issues in Foundation Models/Agents together:
 
 1. Lacking interpretability
 2. Low inference ability and hence being not trustworthy, especially in some risk-sensitive situations
