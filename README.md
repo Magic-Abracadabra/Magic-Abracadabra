@@ -2,7 +2,7 @@
 1. Risk-sensitive and confidential scenarios that requires fast response: Expert Systems
 2. Knowledge graphs should be executable expert systems
 3. Train expert systems using DL, RL, optimization, etc.
-4. The boundaries of Agents and MLLMs will be broken.
+4. The boundaries of Agents and MLLMs will be broken
 
 # ✨About Us
 Welcome to our homepage! We will be glad if you share the same mission and dream with us, so we're here seeking collaboration opportunities, to address the following issues in Foundation Models/Agents together:
