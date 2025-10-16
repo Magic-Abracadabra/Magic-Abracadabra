@@ -5,7 +5,7 @@
 4. The boundaries of Agents and MLLMs will be broken
 
 # ✨About Us
-More Early Versions of Foundation Models/Agents will be updated, free for anyone!
+More Early Versions of Foundation Models/Agents will be updated, including hands-on training methods and initial datasets, free for anyone!
 
 We embrace a world of decentralization.
 
