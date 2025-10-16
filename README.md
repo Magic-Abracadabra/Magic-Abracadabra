@@ -5,6 +5,8 @@
 4. The boundaries of Agents and MLLMs will be broken
 
 # ✨About Us
+More Early Versions of Foundation Models/Agents will be updated, free of charge for anyone!
+
 Welcome to our homepage! We will be glad if you share the same mission and dream with us, so we're here seeking collaboration opportunities, to address the following issues in Foundation Models/Agents together:
 
 1. Lacking interpretability
