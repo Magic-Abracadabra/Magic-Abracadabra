@@ -7,6 +7,8 @@
 # ✨About Us
 More Early Versions of Foundation Models/Agents will be updated, free for anyone!
 
+We embrace a world of decentralization.
+
 Welcome to our homepage! We will be glad if you share the same mission and dream with us, so we're here seeking collaboration opportunities, to address the following issues in Foundation Models/Agents together:
 
 1. Lacking interpretability
