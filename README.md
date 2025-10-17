@@ -7,7 +7,7 @@
 # ✨About Us
 More Early Versions of Foundation Models/Agents will be released, including hands-on training methods and initial datasets, free for anyone!
 
-We embrace a world of decentralization.
+We are a small team with very limited resources (esp. equipments and computation resources). We embrace a world of decentralization.
 
 Welcome to our homepage! We will be glad if you share the same mission and dream with us, so we're here seeking collaboration opportunities, to address the following issues in Foundation Models/Agents together:
 
@@ -15,7 +15,7 @@ Welcome to our homepage! We will be glad if you share the same mission and dream
 2. Low inference ability and hence being not trustworthy, especially in some risk-sensitive situations
 3. Catastrophic forgetting
 4. Long response time
-5. Difficulties in local deployment
+5. Difficulties in local deployment and local training (esp. on CPUs)
 6. Low data efficiency
 
 # 🎯Our Mission
