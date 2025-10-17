@@ -15,7 +15,7 @@ Welcome to our homepage! We will be glad if you share the same mission and dream
 2. Low inference ability and hence being not trustworthy, especially in some risk-sensitive situations
 3. Catastrophic forgetting
 4. Long response time
-5. Difficulties in local deployment and local training (esp. on CPUs)
+5. Difficulties in local deployment and local training (esp. on CPUs of PCs or mobile phones)
 6. Low data efficiency
 
 # 🎯Our Mission
