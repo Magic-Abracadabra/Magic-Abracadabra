@@ -3,6 +3,7 @@
 2. Knowledge graphs should be executable expert systems
 3. Train expert systems using DL, RL, optimization, etc.
 4. The boundaries of Agents and MLLMs will be broken
+5. Help the ESG goals
 
 # ⚡坚定不移地反对AGI叙事——必须给通用人工智能的说法泼冷水，这是对人类的异化
 我们是AGI最坚定的怀疑者与革命者，单个模型架构并不能够实现通用人工智能——人类本身就没有通用一说。我们始终坚持通用是一种相对性的概念——你面对不熟悉的领域就是表现不好，你唯一知道的是你不知道什么，这是事实，所以通用是一种不可能达到的状态，但是持续进化才是一个智能真正需要的能力。
