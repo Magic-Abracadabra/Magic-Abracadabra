@@ -9,7 +9,7 @@
 
 单个模型对应人类世界的专家，多个模型对应人类世界的专家团队，多个模型集成（例如可信度加权，请参考《原则》一书）决策才是持续学习泛化的关键。真正的通用并不存在，人类也不过只是解决了几个自己熟悉的领域，不足以标榜自己“通用”。所以，真正的智能应该能够保持谦逊的态度，实现真正的持续学习（Incremental Learning）。
 
-AGI不是一个以人为本的理念，任何人工智能，我们坚信，只有以人为本的人工智能，才是人类需要的人工智能。
+AGI不是一个以人为本的理念，任何人工智能，我们坚信，只有🍃以人为本🍃的人工智能，才是人类需要的人工智能。
 
 # ✨About Us
 More Early Versions of Foundation Models/Agents will be released, including hands-on training methods and initial datasets, free for anyone!
