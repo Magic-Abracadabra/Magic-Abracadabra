@@ -4,6 +4,13 @@
 3. Train expert systems using DL, RL, optimization, etc.
 4. The boundaries of Agents and MLLMs will be broken
 
+⚡坚定地反对AGI叙事——必须给通用人工智能的说法泼冷水，这是对人类的异化
+我们是AGI坚定的怀疑者与革命者，单个模型架构并不能够实现通用人工智能——人类本身就没有通用一说。我始终坚持通用是一种相对性的概念——你面对不熟悉的领域就是表现不好，你唯一知道的是你不知道什么，这是事实，所以通用是一种不可能达到的状态，但是持续进化才是一个智能真正需要的能力。
+
+单个模型对应人类世界的专家，多个模型对应人类世界的专家团队，多个模型集成（例如可信度加权，请参考《原则》一书）决策才是持续学习泛化的关键。真正的通用并不存在，人类也不过只是解决了几个自己熟悉的领域，不足以标榜自己“通用”。所以，真正的智能应该能够保持谦逊的态度，实现真正的持续学习（Incremental Learning）。
+
+AGI不是一个以人为本的理念，任何人工智能，我们坚信，只有以人为本的人工智能，才是人类需要的人工智能。
+
 # ✨About Us
 More Early Versions of Foundation Models/Agents will be released, including hands-on training methods and initial datasets, free for anyone!
 
