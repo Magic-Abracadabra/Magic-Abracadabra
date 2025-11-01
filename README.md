@@ -17,7 +17,7 @@
 
 任何人工智能，我们坚信，只有🍃以人为本🍃的人工智能，才是人类需要的人工智能。
 
-我们从内心认可当下人工智能的蓬勃发展与繁荣进步，我们坚信人工智能的长期价值，同时我们也尝试解决人工智能领域的技术挑战。因此，我们在技术路线的设计中（特别是技术路线的第一部分和第三部分，我们将批判继承一路走到现今的AI理论与工程宝藏），尽我们的最大努力吸取当下人工智能领域的精华（这体现在我们对未来趋势的判断中——using the **phylosophy** of DL, RL, or, some other optimization techniques, etc.）。我们诚挚地欢迎对该尚在雏形阶段的[技术路线](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework)的建设性批判、建设性讨论与建设性工作，为我们共同迈向美好的未来世界，奉献自己的力量~
+我们从内心认可当下人工智能的蓬勃发展与繁荣进步，我们坚信人工智能的长期价值，同时我们也尝试解决人工智能领域的技术挑战。因此，我们在技术路线的设计中（特别是技术路线的第一部分和第三部分，我们将批判继承一路走到现今的AI理论与工程宝藏），尽我们的最大努力吸取当下人工智能领域的精华（这体现在我们对未来趋势的判断中——using the **phylosophy** of DL, RL, or, some other optimization techniques, etc.）。我们诚挚地欢迎对该尚在雏形阶段的[技术路线内容细节](https://github.com/Magic-Abracadabra/All-Agents-Are-Evolving-Translators/blob/main/Research_Proposal.pdf)的建设性批判、建设性讨论与建设性工作，为我们共同迈向美好的未来世界，奉献自己的力量~
 
 # ✨About Us
 More Early Versions of Foundation Models/Agents will be released, including hands-on training methods and initial datasets, free for anyone!
@@ -36,7 +36,7 @@ Welcome to our homepage! We will be glad if you share the same mission and dream
 All of our contributions are indexed in this project, including the Technical Roadmap Draft:
 [https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework)
 
-# 🎯Our Ultimate Wishes - Just One Possible Inspiring Human-Centered Prospect, Substantially Supported by AI - Our Fourth Industrial Revolution
+# 🎯Our Ultimate Mission - One of Possible Inspiring Human-Centered Prospects, Substantially Supported by AI - Our Current Fourth Industrial Revolution
 We firmly believe that we shall prepare ourselves for a world of Office Automation, _Critical Thinking_, and _Creativity_, which will enable us to enter the era of the fifth industrial revolution. Magic, the so-called "consciousness energy", is the ability of consciousness to control the material world. The automation and modularization of the fourth industrial revolution will lay a solid foundation for this god-like ability. People in the fifth industrial revolution will pay more attention to world exploration (satisfying curiosities about the world) and their influence (demonstrating their values), both inner and outer worlds. Consciousness energy will become a new era of technology. At that time, an idea is the only requirement to teleport ourselves to a human base station on Mars. Just going through the spell in your mind, you will turn domestic garbage into energy supply materials. Our world at that time will be as exciting and cool as today's games.
 
 Now, it's of great significance to tackle the problems listed above. Our mission is to devise a [brand-new framework of Machine Learning](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework), bringing Magic to this world! Abracadabra!
