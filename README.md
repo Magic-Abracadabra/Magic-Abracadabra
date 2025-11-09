@@ -38,8 +38,8 @@ We are a small team whose members major in Mathematics & Engineering, with limit
 
 Welcome to our homepage! We will be glad if you share the same mission and dream with us, so we're here seeking collaboration opportunities, to address the following issues in [Foundation Models/Agents together](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework):
 
-1. Lacking interpretability - being opaque, not auditable, and not thoroughly controllable
-2. Low inference ability and hence being not trustworthy, especially in some risk-sensitive situations
+1. Lacking interpretability, which makes LLMs hallucinate - being opaque, not auditable, and not thoroughly controllable
+2. Low inference ability and hence being not trustworthy (as a consequence of hallucination), especially in some risk-sensitive situations
 3. Catastrophic forgetting
 4. Long response time
 5. Difficulties in local deployment and **local training (esp. on CPUs of PCs or on mobile phones)**, where privacy matters
