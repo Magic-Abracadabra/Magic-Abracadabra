@@ -36,6 +36,8 @@ More Early Versions of Foundation Models/Agents will be released, including hand
 
 We are a small team whose members major in Mathematics & Engineering, with limited resources (esp. equipment and computational resources). This is why we consecrate ourselves to the advent of a decentralized world. (Remark: We have defined the term "decentralized" above in Chinese.)
 
+We are committed to giving credit to related public paper (including ArXiv) or open-source project (including GitHub) within our best efforts. If you believe an omission in our references exists, please bring it to our attention by creating an issue in our project. We will highly value those suggestions that provide **a direct methodological foundation**, **introduce a key concept we build upon**, or **offer a seminal result in the same specific problem domain**.
+
 Welcome to our homepage! We will be glad if you share the same mission and dream with us, so we're here seeking collaboration opportunities, to address the following issues in [Foundation Models/Agents together](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework):
 
 1. Lacking interpretability, which makes LLMs hallucinate - being opaque, not auditable, and not thoroughly controllable
