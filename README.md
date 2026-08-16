@@ -48,6 +48,7 @@ All of our contributions are indexed in this project, including the Technical Ro
 * 我们的全球的、官方的、唯一的社交矩阵：
 <a href="https://github.com/Magic-Abracadabra" title="GitHub"><img src="https://ts3.tc.mm.bing.net/th/id/ODF.bYAvaN8MCaSZfP0o7q_Z_w?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" alt="GitHub" title="GitHub" width="20"></a>
 <a href="https://radicle.network/nodes/iris.radicle.network/users/did%3Akey%3Az6MkrrUmnxwnbVoXc3F6paPZxH3XWJgLNzYqa8gFMUkjdKcj" title="Radicle"><img src="https://avatars.githubusercontent.com/u/48290027?s=200&v=4" alt="Radicle" title="Radicle" width="20"></a>
+<a href="https://sourceforge.net/u/neo-web3/profile/" title="SourceForge"><img src="https://a.fsdn.com/con/images/sandiego/sf-logo-full.svg" alt="SourceForge" title="SourceForge" width="20"></a>
 <a href="https://codeberg.org/Magic-Abracadabra" title="Codeberg"><img src="https://design.codeberg.org/logo-kit/icon_inverted.svg" alt="Codeberg" title="Codeberg" width="20"></a>
 <a href="https://huggingface.co/Magic-Abracadabra" title="Hugging Face"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" title="Hugging Face" width="20"></a>
 <a href="https://www.youtube.com/@MagicAbracadabra-AI" title="YouTube"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" title="YouTube" width="20"></a>
